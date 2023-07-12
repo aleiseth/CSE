@@ -3,6 +3,8 @@
  * Course: CSE 1002, Section 02, Spring 2023
  * Project: Tram
 */
+// java project to evaluate if the pattern of entrance/exit 
+// of passengers on the FIT tram is possible
 import java.util.Scanner;
 class Tram {
    public static void main (final String[] args) {
